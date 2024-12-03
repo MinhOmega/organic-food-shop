@@ -109,17 +109,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 MinhOmega - [@MinhOmega](https://github.com/MinhOmega)
 Project Link: [https://github.com/MinhOmega/organic-food-shop](https://github.com/MinhOmega/organic-food-shop)
-```
-
-This updated README.md provides:
-- Clear installation instructions for both traditional and Docker setups
-- Detailed step-by-step commands
-- List of features and tech stack
-- Contributing guidelines
-- License and contact information
-
-The instructions are based on the project structure visible in the codebase, particularly:
-- Requirements file (```requirements.txt```)
-- Docker configuration (```Dockerfile```)
-- Static assets structure (```myapp/static/assets/*```)
-- Base template (```myapp/templates/base.html```)
