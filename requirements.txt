@@ -1,0 +1,7 @@
+django
+django-jazzmin
+django-import-export
+pycryptodome
+requests
+Pillow
+python-dotenv==1.0.0 
